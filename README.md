@@ -32,7 +32,7 @@ Projeto completo usando **Python**, **FastAPI**, **Docker**, **GitHub Packages**
 Se publicada no PyPI ou GitHub Packages:
 
 ```bash
-pip install calculator-lib
+pip install calculator-lib-terts
 ```
 
 Se localmente:
@@ -154,7 +154,7 @@ python -m twine upload dist/*
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-fastapi-calculator/
+fastapi-calculator-terts/
 ├── app/
 │   ├── main.py
 │   ├── models.py
