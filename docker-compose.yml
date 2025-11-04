@@ -1,7 +1,7 @@
 services:
   calculator-api:
     build: .
-    container_name: calculator-api
+    container_name: calculator-lib
     ports:
       - "8000:8000"
     volumes:

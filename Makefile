@@ -1,6 +1,6 @@
 # Variáveis
 PACKAGE_NAME=calculadora-lib-terts
-VERSION=0.1.3
+VERSION=0.1.1
 
 # Instalar dependências gerais (FastAPI, Uvicorn, etc.)
 install:
